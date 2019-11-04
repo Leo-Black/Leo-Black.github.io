@@ -5,7 +5,7 @@ body {
 	width: 720px;
 	/* Pushes everything 10 pixels to the right */
 	padding-left: 10px;
-    	background-image: url("Background.png");
+    	background-image: url("Background.PNG");
 	background-size: 20px;
 	font-family: 'Comfortaa';
 	color: #FF761C;
