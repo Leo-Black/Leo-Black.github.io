@@ -13,7 +13,7 @@ body {
 }
 /* Modifies the title and subtitle, giving it a larger width, font size, leading and a different colour */
 #header {
-	width: 1600px;
+	width: 1000px;
 	color: #05D8FF;
 	font-size: 28px;
 	line-height: 20px;
