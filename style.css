@@ -6,7 +6,7 @@ body {
 	/* Pushes everything 10 pixels to the right */
 	padding-left: 10px;
     	background-image: url("Background.PNG");
-	background-size: 20px;
+	background-size: 200px;
 	font-family: 'Comfortaa';
 	color: #FF761C;
 	border-color: #FF761C;
